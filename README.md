@@ -1,0 +1,1 @@
+Realtime, multi-channel chat app that uses Firebase.
